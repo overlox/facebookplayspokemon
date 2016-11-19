@@ -1,0 +1,11 @@
+{
+  "name": "facebookplayspokemon",
+  "version": "0.0.1",
+  "dependencies": {
+    "express":"latest",
+    "socket.io": "latest",
+    "node-schedule":"latest",
+    "fb":"latest",
+    "lodash":"latest"
+  }
+}
